@@ -1,8 +1,7 @@
 <h1 align="center"> Assalamualaikum 👋</h1>
 
-[![AbdeltwabMF's github stats](https://github-readme-stats.vercel.app/api?username=abdeltwabmf&show_icons=true&line_height=53&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![AbdeltwabMF's github stats](https://github-readme-stats.vercel.app/api?username=abdeltwabmf&show_icons=true&line_height=53&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdeltwabmf&show_icons=true&layout=default&theme=gruvbox&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
-
 
 <p align="center">
         <a href="https://twitter.com/AbdeltwabMF"><img src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white"/></a>
