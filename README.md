@@ -1,13 +1,31 @@
-<h1 align="center"> Assalamualaikum 👋</h1>
+## Hi, Assalamualaikum 👋
 
-<!--
-[![AbdeltwabMF's github stats](https://github-readme-stats.vercel.app/api?username=abdeltwabmf&show_icons=true&line_height=20&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true)]
-(https://github.com/anuraghazra/github-readme-stats)
--->
+### About me 😇
+
+My name is **Abd El-Twab M. Fakhry**. I'm an experienced C/C++, Java, Python programmer with working knowledge of Linux and advanced knowledge of data structures and algorithms, I'm Free Software Enthusiast and I'm interested in Algorithmic Problems, Computational Science.
+
+---
+
+### GnuPG public key 🔑 for encrypting mail if you know how, [here](https://gist.github.com/AbdeltwabMF/416e85ffb61ca02c979aaa3e77cd2944#file-amf-gpg-pub).
+
+or run:
+
+```
+curl -sL https://gist.github.com/AbdeltwabMF/416e85ffb61ca02c979aaa3e77cd2944#file-gnupg-pub | gpg --import
+```
+
+Key fingerprint = `639D 7AB4 4905 A805 0CDB  DFDE EF99 158D C5D4 CAE5`
+
+All legitimate emails from me will be signed with my GnuPG key.
+
+---
+
+### Donate 💳
+
+You can donate to my projects with:
+
+![xmr](res/xmr.png) Monero: ```44F37xDyXj9ZBvJkK5usYYBABxd5cNQpdXfSwe8w4nnNDHCNVz86rhU91gsW8RXjEYM5LNdoWQkfUbzNYgMm1w6h2MD352r```
+
+---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdeltwabmf&show_icons=true&layout=compact&theme=gruvbox&langs_count=10&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
-
-<p align="center">
-        <a href="https://twitter.com/AbdeltwabMF"><img src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white"/></a>
-        <a href="https://www.linkedin.com/in/AbdeltwabMF"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
-    </p>
