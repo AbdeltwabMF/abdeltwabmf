@@ -24,7 +24,7 @@ All legitimate emails from me will be signed with my GnuPG key.
 
 You can donate to my projects with:
 
-![xmr](res/xmr.png) Monero: ```44F37xDyXj9ZBvJkK5usYYBABxd5cNQpdXfSwe8w4nnNDHCNVz86rhU91gsW8RXjEYM5LNdoWQkfUbzNYgMm1w6h2MD352r```
+<img src="res/xmr.png" alt="drawing" width="10"/> Monero: ```44F37xDyXj9ZBvJkK5usYYBABxd5cNQpdXfSwe8w4nnNDHCNVz86rhU91gsW8RXjEYM5LNdoWQkfUbzNYgMm1w6h2MD352r```
 
 ---
 
