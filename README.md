@@ -11,7 +11,7 @@ My name is **Abd El-Twab M. Fakhry**. I'm an experienced C/C++, Java, Python pro
 or run:
 
 ```
-curl -sL https://gist.github.com/AbdeltwabMF/416e85ffb61ca02c979aaa3e77cd2944#file-amf-gpg-pub | gpg --import
+curl -sL https://gist.githubusercontent.com/AbdeltwabMF/416e85ffb61ca02c979aaa3e77cd2944/raw/d1498fb6616ee6b273e312be14c16de3ea5f0d3f/amf-gpg.pub | gpg --import
 ```
 
 Key fingerprint = `639D 7AB4 4905 A805 0CDB  DFDE EF99 158D C5D4 CAE5`
