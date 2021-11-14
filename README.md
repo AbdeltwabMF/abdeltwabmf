@@ -1,4 +1,4 @@
-## Hi, Assalamualaikum 👋
+## Hi, As-salamu alaykum 👋
 
 ### About me 😇
 
