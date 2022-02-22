@@ -26,9 +26,11 @@ My name is **Abd El-Twab M. Fakhry**. I'm an experienced C/C++, Java, Python pro
 
 ### Donate 💳
 
-- <img src="res/xmr.png" alt="Monero" width="16"/> Monero: ```44F37xDyXj9ZBvJkK5usYYBABxd5cNQpdXfSwe8w4nnNDHCNVz86rhU91gsW8RXjEYM5LNdoWQkfUbzNYgMm1w6h2MD352r```
+- <img src="res/monero.ico" alt="XMR" width="40em" style="vertical-align: middle;"/> Monero: ```44F37xDyXj9ZBvJkK5usYYBABxd5cNQpdXfSwe8w4nnNDHCNVz86rhU91gsW8RXjEYM5LNdoWQkfUbzNYgMm1w6h2MD352r```
 
-- <img src="res/eth.png" alt="Ethereum" width="16"/> Ethereum: ```0x3E8E75c6b34AFeb647C644cBD5527B346a7D57c5```
+- <img src="res/ethereum.ico" alt="ETH" width="40em" style="vertical-align: middle;"/> Ethereum: ```0x3E8E75c6b34AFeb647C644cBD5527B346a7D57c5```
+
+- <img src="res/bitcoin.ico" alt="BTC" width="40em" style="vertical-align: middle;"/> Bitcoin: ```bc1qhv4a7kqylqryla9n35krg8f2vekuntr8kjy9p8```
 
 <br/>
 
