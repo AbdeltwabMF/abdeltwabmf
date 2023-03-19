@@ -1,4 +1,4 @@
-<h2 align="center">Hi, As-salamu alaykum 👋 </h2>
+<h1 align="center">Hi, As-salamu alaykum 👋 </h1>
 
 ### About me 😇
 
@@ -6,23 +6,9 @@ I am an experienced C/C++, Java, and Python programmer with a working knowledge 
 
 ### Contact 📬
 
-#### GnuPG public key 🔑 for encrypting mail if you know how, [here](https://gist.github.com/AbdeltwabMF/416e85ffb61ca02c979aaa3e77cd2944#file-amf-gpg-pub).
+GnuPG public key 🔑 for encrypting mail if you know how, [here](https://gist.github.com/AbdeltwabMF/416e85ffb61ca02c979aaa3e77cd2944#file-amf-gpg-pub).
 - Key fingerprint = ```639D 7AB4 4905 A805 0CDB  DFDE EF99 158D C5D4 CAE5```
 - All legitimate emails from me will be signed with my GnuPG key.
-
-<br/>
-
-<div align="center">
-	<a href="https://abdeltwabmf.github.io" target="_blank"> <img src="res/website.png" alt="Personal Webpage" width="32" height="32"/> </a>
-	&nbsp;&nbsp;
-	<a href="https://www.linkedin.com/in/AbdeltwabMF" target="_blank"> <img src="res/linkedin.png" alt="Linkedin" width="32" height="32"/> </a>
-	&nbsp;&nbsp;
-	<a href="mailto:abdeltwab.m.fakhry@protonmail.com" target="_blank"> <img src="res/mail.png" alt="Mail" width="32" height="32"/> </a>
-	&nbsp;&nbsp;
-	<a href="https://twitter.com/AbdeltwabMF" target="_blank"> <img src="res/twitter.png" alt="Twitter" width="32" height="32"/> </a>
-	&nbsp;&nbsp;
-	<a href="https://t.me/AbdeltwabMF" target="_blank"> <img src="res/telegram.png" alt="Telegram" width="32" height="32"/> </a>
-</div>
 
 ### Cryptocurrency 💳
 
