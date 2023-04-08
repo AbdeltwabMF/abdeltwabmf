@@ -2,7 +2,7 @@
 
 ### About me 😇
 
-I am an experienced C/C++, Java, and Python programmer with a working knowledge of Linux and advanced knowledge of data structures and algorithms. I am a Free Software Enthusiast. Just another programmer with too many opinions. I am not the best, but I’m pretty good.
+I am proficient in C/C++, Java, and Python programming languages, along with a practical understanding of Linux. My expertise extends to advanced data structures and algorithms, and I am passionate about free software. As a versatile programmer, I may not be unparalleled, but my skills are commendable.
 
 ### Contact 📬
 
