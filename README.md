@@ -1,12 +1,17 @@
 <h1 align="center">Hi, As-salamu alaykum 👋 </h1>
 
-### About me 😇
+### About Me 😇
 
-I am proficient in C/C++, Java, and Python programming languages, along with a practical understanding of Linux. My expertise extends to advanced data structures and algorithms, and I am passionate about free software. As a versatile programmer, I may not be unparalleled, but my skills are commendable.
+I was built at the Computers & Systems Engineering Department at Al-Azhar University. I began my journey learning Java in college, then transitioned to C++. I focused on Competitive Programming, which has honed my proficiency in C/C++ and given me a strong understanding of data structures and algorithms. While I've also worked with many other languages, I particularly enjoy working with Go, Shell, and LaTeX.
+
+My hobbies and interests include GNU/Linux, cryptography, cybersecurity, and blockchain technology.
+
+Currently, I am focused on Computer Graphics, Operating Systems, and Compilers. While "Abd El-Twab M. Fakhry" is just my mundane name; you can call me "amf".
 
 ### Contact 📬
 
 GnuPG public key 🔑 for encrypting mail if you know how, [here](https://gist.github.com/AbdeltwabMF/416e85ffb61ca02c979aaa3e77cd2944#file-amf-gpg-pub).
+
 - Key fingerprint = ```639D 7AB4 4905 A805 0CDB  DFDE EF99 158D C5D4 CAE5```
 - All legitimate emails from me will be signed with my GnuPG key.
 
