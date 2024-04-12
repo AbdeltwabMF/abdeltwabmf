@@ -15,4 +15,4 @@ GnuPG public key 🔑 for encrypting mail if you know how, [here](https://gist.g
 
 ### Statistics
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdeltwabmf&hide=html,css,typescript,emacs+lisp,common+lisp,vim+script,kotlin,perl,roff,qml&exclude_repo=&show_icons=true&layout=compact&theme=gruvbox&langs_count=23&card_width=)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdeltwabmf&hide=html,css&exclude_repo=surf,st,dmenu,dwm,dwmblocks,tabbed,slock,emacs.d&show_icons=true&layout=compact&theme=gruvbox&langs_count=23&card_width=)
